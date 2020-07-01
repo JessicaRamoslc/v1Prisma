@@ -1,0 +1,240 @@
+/* RESET = utilizando mobile first configuration */
+body{
+    margin: 0;
+    padding: 0; 
+}
+
+
+/* #logoText{
+    position: absolute;
+    margin-top: 20px;
+    padding-left: 30px;
+} */
+
+#ajusteDePadding{
+    padding-right: 0!important;
+    padding-left: 0!important;
+    background-color: #343a40;
+}
+
+#textPrincipal{
+    
+    margin-top: 50px;
+    color: black;
+    font-size: 1.8rem;
+    padding-left: 30px
+}
+
+#textImgUm{
+    
+    margin-top: 80px;
+    color: black;
+    font-size: 1.4rem;
+    padding-left: 30px;
+}
+
+li{
+    padding-left: 5px;
+}
+
+p{
+    font-family: 'Muli', sans-serif;
+    text-align: justify;
+    text-align: center;
+}
+
+imgBack{
+    position: relative;
+}
+
+img{
+   background-color: #343a40;
+   padding: 0 0 0 0!important;
+   
+    /* box-shadow: 0px 0 50px 0px rgba(0,0,0,0.75)!important; */
+    /* opacity: 2; */
+}
+
+.img-logo{
+    position: relative;
+}
+
+.textApoio{
+    background-color: #8943e8!important;
+    font-size: 22px;
+    text-align: center;
+    padding: 50px 20px 50px 20px;
+    margin: 0;
+  
+    justify-content: inherit;
+    color: #FFFFFF;
+    
+}
+
+.cardUm{
+    background-color: #8943E8;
+    
+}
+
+#textCardUm{
+    color: #FFFFFF;
+    font-family: 'Muli', sans-serif;
+    font-weight: bolder;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+    
+    /* line-height: 0.4px; */
+}
+
+/* #rowCard{
+    background-color: #8943E8;
+} */
+
+#cardDois {
+    min-height: 400px;
+    background-color: #E2DFDF;
+   
+}
+
+a{
+    text-decoration: none;
+    color: blanchedalmond!important;
+}
+
+.form{
+    margin: 40px 0 40px 0;
+    padding: 20px 20px 20px 20px;
+    border-radius: 8px;
+}
+
+.form input{
+width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+
+  margin: 10px 5px 0 0;
+  
+  
+}
+
+
+
+#form h5{
+    text-align: center;
+    margin: 0 0 20px 0;
+    padding-top: 90px;
+    
+}
+
+#btn-form{
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+#main{
+    /* background-color: blue; */
+}
+
+#contentPrincipal{
+    margin-left: 20px;
+
+}
+
+#contentPrincipal>ul>li{
+    list-style: none;
+    text-decoration: none;
+}
+
+
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.navbar{
+    
+    height: auto;
+    border-bottom: black;
+    
+}
+
+#navbar li{
+    display: inline;  
+    text-decoration: none;  
+}
+
+.tittleNav{
+    font-weight: bold;
+    color: #f0f0f0;
+    font-size: x-large;
+    margin-top: 9px;
+    
+    
+}
+
+#divNav{
+    text-align: center!important;
+    align-items: center!important;
+}
+
+.listCard li{
+    list-style: none;
+    text-decoration: none; 
+    padding-left: 0!important;
+    color: #f0f0f0;
+    font-size: 20px;
+    
+}
+
+#contentPrincipal{
+    background-color: #8943E8!important;
+}
+
+#contentPrincipal li{
+    list-style: none;
+    text-decoration: none;
+}
+.btn {
+    background-color: #E8794F;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: rgb(235, 69, 28);
+    text-decoration: none;
+  }
+
+.footer{
+        
+        width: auto;
+        height:80px;
+        background-color: #8943E8
+        
+}
+
+@media (min-width: 300px) { 
+    
+ }
+
+
+
+
+
+
+
+
+
+
